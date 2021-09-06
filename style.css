@@ -6,16 +6,25 @@
     font-style: normal;
 
 }
+.prenom:hover
+{
+    color: pink;
+    border-right: 5px solid pink ;
+    box-shadow: 10px 10px 10px pink;
+}
+
 
 body
 {
     font-family: Impact,montserrat_alternatesregular, 'Arial Narrow Bold', sans-serif;
     color:white;
-    
     background: url("photo_pour_le_site/background1.jpg") fixed no-repeat center;
 }
 
-
+a:visited
+{
+    color: cyan;
+}
 
 h1
 {
