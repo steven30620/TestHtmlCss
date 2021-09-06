@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'montserrat_alternatesregular';
+    src: url('fonts/montserratalternates-regular-webfont.woff2') format('woff2'),
+         url('montserratalternates-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body
+{
+    font-family: Impact,montserrat_alternatesregular, 'Arial Narrow Bold', sans-serif;
+    color:white;
+}
+
+
+.body
+{
+    background: url("photo_pour_le_site/background1.jpg") fixed no-repeat center;
+}
+
+h1
+{
+    border: #941B8A 6px inset ;
+    border-radius: 20px/20px;
+    box-shadow: 19px 19px 19px pink;
+    
+    
+}
